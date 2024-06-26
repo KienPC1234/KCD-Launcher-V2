@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35004.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KCD Launcher MC", "KCD Launcher MC\KCD Launcher MC.csproj", "{092D8480-6F0B-48ED-A76A-D99DAD8B7E37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KCD Lib", "KCD Lib\KCD Lib.csproj", "{56BD61EE-B252-4CDC-A64B-FDADCB1EAE36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{092D8480-6F0B-48ED-A76A-D99DAD8B7E37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{092D8480-6F0B-48ED-A76A-D99DAD8B7E37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{092D8480-6F0B-48ED-A76A-D99DAD8B7E37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{092D8480-6F0B-48ED-A76A-D99DAD8B7E37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56BD61EE-B252-4CDC-A64B-FDADCB1EAE36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56BD61EE-B252-4CDC-A64B-FDADCB1EAE36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56BD61EE-B252-4CDC-A64B-FDADCB1EAE36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56BD61EE-B252-4CDC-A64B-FDADCB1EAE36}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3FFE5E9A-6397-4487-AED5-3E4BC8DA9CA6}
+	EndGlobalSection
+EndGlobal
